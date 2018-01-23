@@ -1,9 +1,10 @@
 /**
  * Created by holbech on 03/09/2017.
+ 1OResHc27wo-LsSD6iVmFg36zScZr2ESoNkd-WHeFVlY
  */
 window.addEventListener('load', function(){
     "use strict";
-    let fgd = new FetchGoogleJSON("1zPuyzZbgp8ANT0XEu4wrzF5HiZ0SXzYN9wstTs5dmF8", listLoaded);
+    let fgd = new FetchGoogleJSON("1OResHc27wo-LsSD6iVmFg36zScZr2ESoNkd-WHeFVlY", listLoaded);
     let timer=null;
     let students = [];
     let template = document.querySelector("#student").content;
